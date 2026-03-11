@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "The Baum-Connes Conjecture via Assembly-K-Persistence"
+message: "If you use this workspace, cite the manuscript and theorem notes."
+type: software
+authors:
+  - name: "HautevilleHouse"
+date-released: 2026-03-11
+repository-code: "https://github.com/HautevilleHouse/baum-connes-conjecture-canonical-lane"
+url: "https://github.com/HautevilleHouse/baum-connes-conjecture-canonical-lane"
+keywords:
+  - baum-connes-conjecture
+  - operator-k-theory
+  - noncommutative-geometry
+  - geometric-group-theory
+  - assembly-map
+  - mathematical-proof
+  - reproducibility
+preferred-citation:
+  type: article
+  title: "The Baum-Connes Conjecture via Assembly-K-Persistence"
+  authors:
+    - name: "HautevilleHouse"
+  date: 2026-03-11

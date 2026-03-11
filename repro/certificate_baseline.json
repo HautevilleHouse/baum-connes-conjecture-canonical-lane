@@ -1,0 +1,78 @@
+{
+  "all_pass": true,
+  "all_pass_normalized": true,
+  "blockers": {
+    "BC_G1": [],
+    "BC_G2": [],
+    "BC_G3": [],
+    "BC_G4": [],
+    "BC_G5": [],
+    "BC_G6": [],
+    "BC_GM": []
+  },
+  "derived": {
+    "strict_coh_zero": true,
+    "strict_margin": 0.8038585209003215
+  },
+  "gates": {
+    "BC_G1": "PASS",
+    "BC_G2": "PASS",
+    "BC_G3": "PASS",
+    "BC_G4": "PASS",
+    "BC_G5": "PASS",
+    "BC_G6": "PASS",
+    "BC_GM": "PASS"
+  },
+  "inputs": {
+    "assembly_transfer": 1.029422,
+    "eps_coh": 0.0,
+    "kappa_analytic": 1.0913680000000001,
+    "kappa_compact": 0.8038585209003215,
+    "rho_rigidity": 1.077,
+    "sigma_equivariant": 1.073,
+    "sigma_star_can": 1.053
+  },
+  "lane": {
+    "active_lane": "manifold_constrained",
+    "canonical_theorem_lane": "manifold_constrained"
+  },
+  "meta": {
+    "computed_at_utc": "2026-03-11T23:03:09+00:00",
+    "framework": "baum_connes_conjecture"
+  },
+  "normalized": {
+    "blockers": {
+      "G1": [],
+      "G2": [],
+      "G3": [],
+      "G4": [],
+      "G5": [],
+      "G6": [],
+      "GCoh": [],
+      "GM": []
+    },
+    "gates": {
+      "G1": "PASS",
+      "G2": "PASS",
+      "G3": "PASS",
+      "G4": "PASS",
+      "G5": "PASS",
+      "G6": "NA",
+      "GCoh": "PASS",
+      "GM": "PASS"
+    }
+  },
+  "schema": {
+    "g6_policy": "NA means this framework has no standalone pre-coherence G6 gate",
+    "normalized_gate_keys": [
+      "G1",
+      "G2",
+      "G3",
+      "G4",
+      "G5",
+      "G6",
+      "GCoh",
+      "GM"
+    ]
+  }
+}

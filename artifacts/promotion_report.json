@@ -1,0 +1,19 @@
+{
+  "extracted_source": "artifacts/constants_extracted.json",
+  "framework": "baum_connes_conjecture",
+  "generated_utc": "2026-03-11T23:03:30Z",
+  "promoted_constants": {
+    "assembly_transfer": 1.029422,
+    "eps_coh": 0.0,
+    "kappa_analytic": 1.0913680000000001,
+    "kappa_compact": 0.8038585209003215,
+    "rho_rigidity": 1.077,
+    "sigma_equivariant": 1.073
+  },
+  "promoted_stitch": {
+    "sigma_star_can": 1.053
+  },
+  "registry_path": "artifacts/constants_registry.json",
+  "schema_version": "2026-03-05",
+  "stitch_path": "artifacts/stitch_constants.json"
+}
