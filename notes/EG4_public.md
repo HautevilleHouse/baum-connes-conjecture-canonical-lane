@@ -1,6 +1,6 @@
 # EG4 Public Note (Rigidity and Endpoint Transfer)
 
-Mature wording: `bad-limit exclusion / endpoint transfer`.
+Canonical wording: `bad-limit exclusion / endpoint transfer`.
 
 In-paper anchor: `paper/BAUM_CONNES_CONJECTURE_PREPRINT.md` (`BC_G4`, `BC_G5`).
 
@@ -42,5 +42,5 @@ If bad limits are excluded and the endpoint lock is active, then `BC_G4` and `BC
 - rigidity artifact key: `rho_rigidity`
 - transfer gate: `BC_G5`
 - transfer artifact key: `assembly_transfer`
-- mature equivalent: `bad-limit exclusion / endpoint identification`
+- canonical equivalent: `bad-limit exclusion / endpoint identification`
 - audit surface: `notes/IDENTIFICATION_BRIDGE.md` and `repro/certificate_runtime.json`
